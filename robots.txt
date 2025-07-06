@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: shcherbakov-team.ru
+Sitemap: https://shcherbakov-team.ru/sitemap.xml
